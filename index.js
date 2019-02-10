@@ -16,4 +16,4 @@ var interval = setInterval(function(){
 setTimeout(function(){
   clearInterval(interval);
   console.log("KYNUX Software is ready!");
-}, 5000);
+}, 10000);
